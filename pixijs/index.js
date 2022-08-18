@@ -140,7 +140,7 @@ function where_are_player()
 
 function when_in_the_building()
 {
-    if (x > 150 && x < 210 && y < 120)
+    if (x > 500 && x < 650 && y < 100)
         app.stage.addChild(theater_conteiner);
     else 
         app.stage.removeChild(theater_conteiner);
