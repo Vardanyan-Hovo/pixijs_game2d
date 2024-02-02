@@ -1,7 +1,7 @@
 follow this link to see how my task works and
 how you can create a localhost for this task
 <h2 color="red">video is 12 MB, but GitHub doesn't show more than 1 MB</h2>
-![Game]([https://github.com/Vardanyan-Hovo/pixijs_game2d/blob/main/pixijs/Public/Game.mp4])
+![Game]([[https://github.com/Vardanyan-Hovo/pixijs_game2d/blob/main/pixijs/Public/Game.mp4](https://github.com/Vardanyan-Hovo/pixijs_game2d/blob/main/pixijs/Public/Game.mp4)])
  
 <h2>How you can run</h2>
 
