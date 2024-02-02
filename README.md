@@ -1,7 +1,8 @@
 follow this link to see how my task works and
 how you can create a localhost for this task
 
-![Bitcoin](https://github.com/Vardanyan-Hovo/Bitcoin/blob/main/public/bitcoin.png)
+![Game]([https://github.com/Vardanyan-Hovo/pixijs_game2d/blob/main/pixijs/Public/Untitled.mp4])
+ 
 
 1)cd pixijs_game2d
 2)cd pixijs
