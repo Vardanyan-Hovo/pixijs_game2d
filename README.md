@@ -11,6 +11,7 @@ First, run the development server:
 
 <h2>How you can run</h2>
 
+```
 <p>1)cd pixijs_game2d</p>
 <p>2)cd pixijs</p>
 <p>3)npm init // package.json</p>
@@ -20,4 +21,6 @@ First, run the development server:
 <p>7)cd  node_modules/http-server/bin</p>
 <p>8)./http-server // for run server</p>
 
-now you can open localhost:8080 and play game
+
+```
+<p>now you can open localhost:8080 and play game</p>p
